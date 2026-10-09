@@ -1,5 +1,4 @@
 # Lab3
-<<<<<<< HEAD
 Hello, Local World!
 
 
